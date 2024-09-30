@@ -8,3 +8,6 @@ GitHub中文社区 | GitHub中文网首页
 https://www.github-zh.com/
 https://github.com/QuietClickCode/How-to-Make-a-Computer-Operating-System.git
 https://github.com/QuietClickCode/30dayMakeOS.git
+
+python 底层学习 有哪些资料可以参考？ - 知乎
+https://www.zhihu.com/question/403783112
